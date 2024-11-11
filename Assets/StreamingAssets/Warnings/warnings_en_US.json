@@ -1,0 +1,19 @@
+{
+  "warnings": [
+    {
+      "textKey": "warning_1",
+      "localizedText": "The base is in danger! Pull the trigger faster, soldier! ",
+      "audioPath": "Sounds/Warnings/warning_1_en"
+    },
+    {
+      "textKey": "warning_2",
+      "localizedText": "The wind is caressing your bald head, the sun is blinding your eyes, and we've already got a bunch of aliens here because of you! ",
+      "audioPath": "Sounds/Warnings/warning_2_en"
+    },
+    {
+      "textKey": "warning_3",
+      "localizedText": "Ahhh...and once upon a time it was the way of the noble hover-train...its shiny sides and powerful motor still make me nostalgic.... ",
+      "audioPath": "Sounds/Warnings/warning_3_en"
+    }
+  ]
+}

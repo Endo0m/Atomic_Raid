@@ -1,0 +1,184 @@
+{
+  "items": [
+    {
+      "key": "NewGame",
+      "value": "Nouvelle Partie"
+    },
+    {
+      "key": "Settings",
+      "value": "Paramètres"
+    },
+    {
+      "key": "Leaders",
+      "value": "Classement"
+    },
+    {
+      "key": "Authors",
+      "value": "Auteurs"
+    },
+    {
+      "key": "Exit",
+      "value": "Quitter"
+    },
+    {
+      "key": "Back",
+      "value": "Retour"
+    },
+    {
+      "key": "Music",
+      "value": "Musique"
+    },
+    {
+      "key": "Sound",
+      "value": "Son"
+    },
+    {
+      "key": "Menu",
+      "value": "Menu"
+    },
+    {
+      "key": "Restart",
+      "value": "Recommencer"
+    },
+    {
+      "key": "GameOver",
+      "value": "Partie Terminée"
+    },
+    {
+      "key": "Placeholder",
+      "value": "Entrez votre nom"
+    },
+    {
+      "key": "SaveScore",
+      "value": "Sauvegarder le score"
+    },
+    {
+      "key": "Continue",
+      "value": "Continuer"
+    },
+    {
+      "key": "HelpPanelText",
+      "value": "Appuyez sur Espace et c'est parti !"
+    },
+    {
+      "key": "Help_HealthText",
+      "value": "Durabilité de l'armure"
+    },
+    {
+      "key": "Help_ScoreText",
+      "value": "Points pour les ennemis vaincus"
+    },
+    {
+      "key": "Help_TimerText",
+      "value": "Durée de l'effet de champ"
+    },
+    {
+      "key": "Help_ActiveText",
+      "value": "Champ actif"
+    },
+    {
+      "key": "Help_MovementText",
+      "value": "Contrôles :"
+    },
+    {
+      "key": "Help_UpText",
+      "value": "Haut"
+    },
+    {
+      "key": "Help_DownText",
+      "value": "Bas"
+    },
+    {
+      "key": "Help_LeftText",
+      "value": "Gauche"
+    },
+    {
+      "key": "Help_RightText",
+      "value": "Droite"
+    },
+    {
+      "key": "Help_MouseText",
+      "value": "Visée :"
+    },
+    {
+      "key": "Help_LeftButtonMouseText",
+      "value": "Attaque"
+    },
+    {
+      "key": "Help_MoveMouseText",
+      "value": "Déplacer le viseur"
+    },
+    {
+      "key": "Score_Text",
+      "value": "SCORE :"
+    },
+    {
+      "key": "Cutscene_Text",
+      "value": "Appuyez sur Espace pour passer..."
+    },
+    {
+      "key": "Language",
+      "value": "Langue"
+    },
+    {
+      "key": "AutorsText",
+      "value": "Concepteurs de jeu :\nOleg Grigoriev\n\nArtistes 3D :\nDaniil Nurmukhametov\nAnastasia Tomashevskaya\n\nArtistes 2D :\nArtemiy Ekimov\n\nConcepteurs narratifs :\nYaroslav Dunaevsky\n\nDéveloppeurs Unity :\nArtur Sadreev\n\nConcepteurs sonores :\nEvgeny Ibragimov"
+    },
+    {
+      "key": "LeaderboardRank",
+      "value": "Rang"
+    },
+    {
+      "key": "LeaderboardName",
+      "value": "Nom"
+    },
+    {
+      "key": "LeaderboardScore",
+      "value": "Score"
+    },
+    {
+      "key": "Game",
+      "value": "Jeu"
+    },
+    {
+      "key": "Video",
+      "value": "Vidéo"
+    },
+    {
+      "key": "Controls",
+      "value": "Commandes"
+    },
+    {
+      "key": "ScreenResolution",
+      "value": "Résolution d'écran"
+    },
+    {
+      "key": "Up",
+      "value": "Décalage vers le haut"
+    },
+    {
+      "key": "Down",
+      "value": "Décalage vers le bas"
+    },
+    {
+      "key": "Left",
+      "value": "Décalage vers la gauche"
+    },
+    {
+      "key": "Right",
+      "value": "Décalage vers la droite"
+    },
+    {
+      "key": "Shoot",
+      "value": "Tirer"
+    },
+    {
+      "key": "ResetSettings",
+      "value": "Réinitialiser les paramètres"
+    },
+    {
+      "key": "Kate",
+      "value": "Kate"
+    }
+  ]
+}

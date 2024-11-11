@@ -1,0 +1,9 @@
+{
+  "bossEvents": [
+    {
+      "textKey": "boss_1",
+      "localizedText": "Oh, that thing's got a mouth on it, feed it properly with your blaster!",
+      "audioPath": "Sounds/Bosses/boss_1_en"
+    }
+  ]
+}

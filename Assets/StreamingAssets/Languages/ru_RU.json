@@ -1,0 +1,184 @@
+{
+  "items": [
+    {
+      "key": "NewGame",
+      "value": "Новая игра"
+    },
+    {
+      "key": "Settings",
+      "value": "Настройки"
+    },
+    {
+      "key": "Leaders",
+      "value": "Лидеры"
+    },
+    {
+      "key": "Authors",
+      "value": "Авторы"
+    },
+    {
+      "key": "Exit",
+      "value": "Выход"
+    },
+    {
+      "key": "Back",
+      "value": "Назад"
+    },
+    {
+      "key": "Music",
+      "value": "Музыка"
+    },
+    {
+      "key": "Sound",
+      "value": "Звук"
+    },
+    {
+      "key": "Menu",
+      "value": "Меню"
+    },
+    {
+      "key": "Restart",
+      "value": "Рестарт"
+    },
+    {
+      "key": "GameOver",
+      "value": "Игра окончена"
+    },
+    {
+      "key": "Placeholder",
+      "value": "Введите имя"
+    },
+    {
+      "key": "SaveScore",
+      "value": "Сохранить счет"
+    },
+    {
+      "key": "Continue",
+      "value": "Продолжить"
+    },
+    {
+      "key": "HelpPanelText",
+      "value": "Жми Пробел и погнали!"
+    },
+    {
+      "key": "Help_HealthText",
+      "value": "Запас прочности брони"
+    },
+    {
+      "key": "Help_ScoreText",
+      "value": "Очки за поверженных врагов"
+    },
+    {
+      "key": "Help_TimerText",
+      "value": "Время действия поля"
+    },
+    {
+      "key": "Help_ActiveText",
+      "value": "Активное поле"
+    },
+    {
+      "key": "Help_MovementText",
+      "value": "Управление:"
+    },
+    {
+      "key": "Help_UpText",
+      "value": "Вверх"
+    },
+    {
+      "key": "Help_DownText",
+      "value": "Вниз"
+    },
+    {
+      "key": "Help_LeftText",
+      "value": "Влево"
+    },
+    {
+      "key": "Help_RightText",
+      "value": "Вправо"
+    },
+    {
+      "key": "Help_MouseText",
+      "value": "Прицеливание:"
+    },
+    {
+      "key": "Help_LeftButtonMouseText",
+      "value": "Атака"
+    },
+    {
+      "key": "Help_MoveMouseText",
+      "value": "Передвижение прицела"
+    },
+    {
+      "key": "Score_Text",
+      "value": "C4ET:"
+    },
+    {
+      "key": "Cutscene_Text",
+      "value": "Нажмите Пробел, чтобы пропустить..."
+    },
+    {
+      "key": "Language",
+      "value": "Язык"
+    },
+    {
+      "key": "AutorsText",
+      "value": "Гейм-дизайнеры:\nОлег Григорьев\n\n3D-художники:\nДаниил Нурмухаметов\nАнастасия Томашевская\n\n2D-художники:\nАртемий Екимов\n\nНарративные дизайнеры:\nЯрослав Дунаевский\n\nUnity-разработчики:\nАртур Садреев\n\nЗвукорежиссёры:\nЕвгений Ибрагимов"
+    },
+    {
+      "key": "LeaderboardRank",
+      "value": "Место"
+    },
+    {
+      "key": "LeaderboardName",
+      "value": "Имя"
+    },
+    {
+      "key": "LeaderboardScore",
+      "value": "Счет"
+    },
+    {
+      "key": "Game",
+      "value": "Игра"
+    },
+    {
+      "key": "Video",
+      "value": "Видео"
+    },
+    {
+      "key": "Controls",
+      "value": "Управление"
+    },
+    {
+      "key": "ScreenResolution",
+      "value": "Разрешение экрана"
+    },
+    {
+      "key": "Up",
+      "value": "Смещение Вверх"
+    },
+    {
+      "key": "Down",
+      "value": "Смещение Вниз"
+    },
+    {
+      "key": "Left",
+      "value": "Смещение Влево"
+    },
+    {
+      "key": "Right",
+      "value": "Смещение Вправо"
+    },
+    {
+      "key": "Shoot",
+      "value": "Выстрел"
+    },
+    {
+      "key": "ResetSettings",
+      "value": "Сброс настроек"
+    },
+    {
+      "key": "Kate",
+      "value": "Катя"
+    }
+  ]
+}

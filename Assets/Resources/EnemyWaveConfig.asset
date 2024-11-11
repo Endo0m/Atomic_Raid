@@ -1,0 +1,326 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a17b2a797ca1f6479488a79a6e877c7, type: 3}
+  m_Name: EnemyWaveConfig
+  m_EditorClassIdentifier: 
+  enemyTypes:
+  - prefab: {fileID: 5888746251039636533, guid: 86788df68675a18418cb7d129a9c31ac, type: 3}
+    maxEnemies: 10
+    isFlying: 1
+    spawnStartTime: 4
+    waveConfigs:
+    - duration: 10
+      minEnemies: 1
+      maxEnemies: 2
+      minSpawnInterval: 2
+      maxSpawnInterval: 4
+    - duration: 20
+      minEnemies: 2
+      maxEnemies: 2
+      minSpawnInterval: 2
+      maxSpawnInterval: 4
+    - duration: 30
+      minEnemies: 2
+      maxEnemies: 3
+      minSpawnInterval: 2
+      maxSpawnInterval: 4
+    - duration: 60
+      minEnemies: 2
+      maxEnemies: 3
+      minSpawnInterval: 2
+      maxSpawnInterval: 3
+    - duration: 120
+      minEnemies: 2
+      maxEnemies: 3
+      minSpawnInterval: 2
+      maxSpawnInterval: 4
+    level: 0
+  - prefab: {fileID: 4455472441606487687, guid: bfcad791eef76be4bbe0b003b70b4251, type: 3}
+    maxEnemies: 10
+    isFlying: 1
+    spawnStartTime: 45
+    waveConfigs:
+    - duration: 45
+      minEnemies: 1
+      maxEnemies: 1
+      minSpawnInterval: 3
+      maxSpawnInterval: 6
+    - duration: 45
+      minEnemies: 1
+      maxEnemies: 2
+      minSpawnInterval: 3
+      maxSpawnInterval: 7
+    - duration: 45
+      minEnemies: 1
+      maxEnemies: 2
+      minSpawnInterval: 2
+      maxSpawnInterval: 4
+    level: 0
+  - prefab: {fileID: 7289793041286918437, guid: 8ab3a5abea6afa34f82d005624f67f04, type: 3}
+    maxEnemies: 10
+    isFlying: 0
+    spawnStartTime: 100
+    waveConfigs:
+    - duration: 20
+      minEnemies: 1
+      maxEnemies: 1
+      minSpawnInterval: 4
+      maxSpawnInterval: 8
+    - duration: 60
+      minEnemies: 1
+      maxEnemies: 1
+      minSpawnInterval: 3
+      maxSpawnInterval: 5
+    level: 0
+  - prefab: {fileID: 1578629762294229111, guid: 352cd821a98b95d47810958f5735d690, type: 3}
+    maxEnemies: 10
+    isFlying: 1
+    spawnStartTime: 150
+    waveConfigs:
+    - duration: 30
+      minEnemies: 1
+      maxEnemies: 1
+      minSpawnInterval: 5
+      maxSpawnInterval: 8
+    level: 0
+  - prefab: {fileID: 5888746251039636533, guid: 86788df68675a18418cb7d129a9c31ac, type: 3}
+    maxEnemies: 10
+    isFlying: 1
+    spawnStartTime: 1
+    waveConfigs:
+    - duration: 60
+      minEnemies: 1
+      maxEnemies: 3
+      minSpawnInterval: 3
+      maxSpawnInterval: 4
+    - duration: 60
+      minEnemies: 2
+      maxEnemies: 3
+      minSpawnInterval: 3
+      maxSpawnInterval: 4
+    - duration: 60
+      minEnemies: 2
+      maxEnemies: 3
+      minSpawnInterval: 2
+      maxSpawnInterval: 3
+    - duration: 60
+      minEnemies: 0
+      maxEnemies: 0
+      minSpawnInterval: 3
+      maxSpawnInterval: 4
+    level: 1
+  - prefab: {fileID: 4455472441606487687, guid: bfcad791eef76be4bbe0b003b70b4251, type: 3}
+    maxEnemies: 10
+    isFlying: 1
+    spawnStartTime: 5
+    waveConfigs:
+    - duration: 60
+      minEnemies: 1
+      maxEnemies: 2
+      minSpawnInterval: 4
+      maxSpawnInterval: 7
+    - duration: 60
+      minEnemies: 1
+      maxEnemies: 3
+      minSpawnInterval: 4
+      maxSpawnInterval: 6
+    - duration: 60
+      minEnemies: 1
+      maxEnemies: 3
+      minSpawnInterval: 3
+      maxSpawnInterval: 5
+    level: 1
+  - prefab: {fileID: 7289793041286918437, guid: 8ab3a5abea6afa34f82d005624f67f04, type: 3}
+    maxEnemies: 10
+    isFlying: 0
+    spawnStartTime: 10
+    waveConfigs:
+    - duration: 60
+      minEnemies: 1
+      maxEnemies: 2
+      minSpawnInterval: 4
+      maxSpawnInterval: 6
+    - duration: 60
+      minEnemies: 1
+      maxEnemies: 2
+      minSpawnInterval: 3
+      maxSpawnInterval: 5
+    - duration: 60
+      minEnemies: 1
+      maxEnemies: 3
+      minSpawnInterval: 3
+      maxSpawnInterval: 4
+    level: 1
+  - prefab: {fileID: 1578629762294229111, guid: 352cd821a98b95d47810958f5735d690, type: 3}
+    maxEnemies: 10
+    isFlying: 1
+    spawnStartTime: 20
+    waveConfigs:
+    - duration: 60
+      minEnemies: 1
+      maxEnemies: 2
+      minSpawnInterval: 4
+      maxSpawnInterval: 7
+    - duration: 60
+      minEnemies: 1
+      maxEnemies: 2
+      minSpawnInterval: 4
+      maxSpawnInterval: 6
+    - duration: 60
+      minEnemies: 1
+      maxEnemies: 2
+      minSpawnInterval: 3
+      maxSpawnInterval: 5
+    level: 1
+  - prefab: {fileID: 7520227980674845986, guid: 01f31d48bdd9c6c468957332b9415209, type: 3}
+    maxEnemies: 10
+    isFlying: 1
+    spawnStartTime: 4
+    waveConfigs:
+    - duration: 30
+      minEnemies: 1
+      maxEnemies: 1
+      minSpawnInterval: 3
+      maxSpawnInterval: 4
+    - duration: 30
+      minEnemies: 1
+      maxEnemies: 1
+      minSpawnInterval: 2
+      maxSpawnInterval: 4
+    - duration: 30
+      minEnemies: 1
+      maxEnemies: 2
+      minSpawnInterval: 2
+      maxSpawnInterval: 4
+    - duration: 45
+      minEnemies: 1
+      maxEnemies: 2
+      minSpawnInterval: 2
+      maxSpawnInterval: 3
+    - duration: 45
+      minEnemies: 1
+      maxEnemies: 3
+      minSpawnInterval: 2
+      maxSpawnInterval: 4
+    level: 2
+  - prefab: {fileID: 4455472441606487687, guid: bfcad791eef76be4bbe0b003b70b4251, type: 3}
+    maxEnemies: 10
+    isFlying: 1
+    spawnStartTime: 30
+    waveConfigs:
+    - duration: 50
+      minEnemies: 1
+      maxEnemies: 1
+      minSpawnInterval: 3
+      maxSpawnInterval: 6
+    - duration: 50
+      minEnemies: 1
+      maxEnemies: 2
+      minSpawnInterval: 3
+      maxSpawnInterval: 5
+    - duration: 50
+      minEnemies: 1
+      maxEnemies: 2
+      minSpawnInterval: 3
+      maxSpawnInterval: 4
+    level: 2
+  - prefab: {fileID: 8376411059195974454, guid: 32b61a1b789dcdf4da3eaa99b7eb3a73, type: 3}
+    maxEnemies: 10
+    isFlying: 0
+    spawnStartTime: 90
+    waveConfigs:
+    - duration: 30
+      minEnemies: 1
+      maxEnemies: 1
+      minSpawnInterval: 4
+      maxSpawnInterval: 7
+    - duration: 60
+      minEnemies: 1
+      maxEnemies: 1
+      minSpawnInterval: 3
+      maxSpawnInterval: 5
+    level: 2
+  - prefab: {fileID: 5888746251039636533, guid: 86788df68675a18418cb7d129a9c31ac, type: 3}
+    maxEnemies: 10
+    isFlying: 1
+    spawnStartTime: 3
+    waveConfigs:
+    - duration: 60
+      minEnemies: 1
+      maxEnemies: 3
+      minSpawnInterval: 4
+      maxSpawnInterval: 7
+    level: 4
+  - prefab: {fileID: 8376411059195974454, guid: 32b61a1b789dcdf4da3eaa99b7eb3a73, type: 3}
+    maxEnemies: 10
+    isFlying: 0
+    spawnStartTime: 10
+    waveConfigs:
+    - duration: 120
+      minEnemies: 1
+      maxEnemies: 1
+      minSpawnInterval: 5
+      maxSpawnInterval: 7
+    level: 4
+  - prefab: {fileID: 4455472441606487687, guid: bfcad791eef76be4bbe0b003b70b4251, type: 3}
+    maxEnemies: 10
+    isFlying: 1
+    spawnStartTime: 6
+    waveConfigs:
+    - duration: 50
+      minEnemies: 1
+      maxEnemies: 2
+      minSpawnInterval: 4
+      maxSpawnInterval: 6
+    level: 4
+  - prefab: {fileID: 7289793041286918437, guid: 8ab3a5abea6afa34f82d005624f67f04, type: 3}
+    maxEnemies: 10
+    isFlying: 0
+    spawnStartTime: 15
+    waveConfigs:
+    - duration: 180
+      minEnemies: 1
+      maxEnemies: 1
+      minSpawnInterval: 4
+      maxSpawnInterval: 7
+    level: 4
+  - prefab: {fileID: 1578629762294229111, guid: 352cd821a98b95d47810958f5735d690, type: 3}
+    maxEnemies: 10
+    isFlying: 1
+    spawnStartTime: 20
+    waveConfigs:
+    - duration: 30
+      minEnemies: 1
+      maxEnemies: 1
+      minSpawnInterval: 5
+      maxSpawnInterval: 8
+    level: 4
+  - prefab: {fileID: 7520227980674845986, guid: 01f31d48bdd9c6c468957332b9415209, type: 3}
+    maxEnemies: 10
+    isFlying: 1
+    spawnStartTime: 5
+    waveConfigs:
+    - duration: 180
+      minEnemies: 1
+      maxEnemies: 1
+      minSpawnInterval: 2
+      maxSpawnInterval: 4
+    level: 4
+  flyingSpawnArea:
+    min: {x: -7, y: 4, z: 120}
+    max: {x: 9, y: 10, z: 200}
+  groundSpawnArea:
+    min: {x: -4, y: 0.1, z: 120}
+    max: {x: 6, y: 0.1, z: 200}
+  obstacleLayer:
+    serializedVersion: 2
+    m_Bits: 33024

@@ -1,0 +1,19 @@
+{
+  "warnings": [
+    {
+      "textKey": "warning_1",
+      "localizedText": "基地危在旦夕！士兵，扣动扳机要更快！",
+      "audioPath": "Sounds/Warnings/warning_1_zh"
+    },
+    {
+      "textKey": "warning_2",
+      "localizedText": "风抚摸着你的光头，阳光刺痛你的眼睛，而因为你，我们这里已经有一群外星人了！",
+      "audioPath": "Sounds/Warnings/warning_2_zh"
+    },
+    {
+      "key": "warning_3",
+      "localizedText": "啊...曾经那是高贵的悬浮列车的道路...它闪亮的侧面和强大的引擎仍然让我感到怀念...",
+      "audioPath": "Sounds/Warnings/warning_3_zh"
+    }
+  ]
+}

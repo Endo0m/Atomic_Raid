@@ -1,0 +1,9 @@
+{
+  "bossEvents": [
+    {
+      "textKey": "boss_1",
+      "localizedText": "哦，那东西嘴巴很大，用你的爆能枪好好喂它！",
+      "audioPath": "Sounds/Bosses/boss_1_zh"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "items": [
+    {
+      "key": "NewGame",
+      "value": "新游戏"
+    },
+    {
+      "key": "Settings",
+      "value": "设置"
+    },
+    {
+      "key": "Leaders",
+      "value": "排行榜"
+    },
+    {
+      "key": "Authors",
+      "value": "作者"
+    },
+    {
+      "key": "Exit",
+      "value": "退出"
+    },
+    {
+      "key": "Back",
+      "value": "返回"
+    },
+    {
+      "key": "Music",
+      "value": "音乐"
+    },
+    {
+      "key": "Sound",
+      "value": "音效"
+    },
+    {
+      "key": "Menu",
+      "value": "菜单"
+    },
+    {
+      "key": "Restart",
+      "value": "重新开始"
+    },
+    {
+      "key": "GameOver",
+      "value": "游戏结束"
+    },
+    {
+      "key": "Placeholder",
+      "value": "输入名字"
+    },
+    {
+      "key": "SaveScore",
+      "value": "保存分数"
+    },
+    {
+      "key": "Continue",
+      "value": "继续"
+    },
+    {
+      "key": "HelpPanelText",
+      "value": "按空格键开始！"
+    },
+    {
+      "key": "Help_HealthText",
+      "value": "装甲耐久度"
+    },
+    {
+      "key": "Help_ScoreText",
+      "value": "击败敌人的得分"
+    },
+    {
+      "key": "Help_TimerText",
+      "value": "场地效果持续时间"
+    },
+    {
+      "key": "Help_ActiveText",
+      "value": "激活场地"
+    },
+    {
+      "key": "Help_MovementText",
+      "value": "控制："
+    },
+    {
+      "key": "Help_UpText",
+      "value": "上"
+    },
+    {
+      "key": "Help_DownText",
+      "value": "下"
+    },
+    {
+      "key": "Help_LeftText",
+      "value": "左"
+    },
+    {
+      "key": "Help_RightText",
+      "value": "右"
+    },
+    {
+      "key": "Help_MouseText",
+      "value": "瞄准："
+    },
+    {
+      "key": "Help_LeftButtonMouseText",
+      "value": "攻击"
+    },
+    {
+      "key": "Help_MoveMouseText",
+      "value": "移动准星"
+    },
+    {
+      "key": "Score_Text",
+      "value": "分数："
+    },
+    {
+      "key": "Cutscene_Text",
+      "value": "按空格键跳过..."
+    },
+    {
+      "key": "Language",
+      "value": "语言"
+    },
+    {
+      "key": "AutorsText",
+      "value": "Daniil Nurmukhametov (3D)\nOleg Grigoriev (游戏设计)\nArthur Sadreev (Unity开发)\nYaroslav Dunaevsky (叙事)\nAlexey Prokaten (3D)\nArtemiy Ekimov (2D)\nVladimir Belov (视频制作)\nAnastasia Dolgikh (3D)\nEvgeny Ibragimov (音效)\nAnastasia Tomashevskaja (3D)"
+    },
+    {
+      "key": "LeaderboardRank",
+      "value": "排名"
+    },
+    {
+      "key": "LeaderboardName",
+      "value": "名字"
+    },
+    {
+      "key": "LeaderboardScore",
+      "value": "分数"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "warnings": [
+    {
+      "textKey": "warning_1",
+      "localizedText": "La base est en danger ! Appuyez sur la gâchette plus vite, soldat !",
+      "audioPath": "Sounds/Warnings/warning_1_fr"
+    },
+    {
+      "textKey": "warning_2",
+      "localizedText": "Le vent caresse votre tête chauve, le soleil vous aveugle, et nous avons déjà une bande d'aliens ici à cause de vous !",
+      "audioPath": "Sounds/Warnings/warning_2_fr"
+    },
+    {
+      "textKey": "warning_3",
+      "localizedText": "Ah... il était une fois le chemin du noble train en lévitation... ses côtés brillants et son puissant moteur me rendent encore nostalgique...",
+      "audioPath": "Sounds/Warnings/warning_3_fr"
+    }
+  ]
+}

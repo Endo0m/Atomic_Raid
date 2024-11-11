@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4b22ffe24915b2428f506467e272631, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  spawnStages:
+  - buffProbability: 80
+    debuffProbability: 20
+    spawnInterval: 12
+    fieldsPerSpawn: 4
+    stageDuration: 120
+  - buffProbability: 70
+    debuffProbability: 30
+    spawnInterval: 12
+    fieldsPerSpawn: 4
+    stageDuration: 120
+  - buffProbability: 60
+    debuffProbability: 40
+    spawnInterval: 12
+    fieldsPerSpawn: 6
+    stageDuration: 60
+  - buffProbability: 65
+    debuffProbability: 35
+    spawnInterval: 12
+    fieldsPerSpawn: 6
+    stageDuration: 120
+  - buffProbability: 75
+    debuffProbability: 25
+    spawnInterval: 11
+    fieldsPerSpawn: 6
+    stageDuration: 180
+  initialSpawnDelay: 15
+  buffPrefabs:
+  - {fileID: 739892964521916697, guid: 7e30b256c880fb4489869653e9a7c92e, type: 3}
+  - {fileID: 9204172132392836937, guid: e1552f7e54bcc5e4e9cccbae2510f166, type: 3}
+  - {fileID: 197594206431264787, guid: ecaea7aaad718fb478b8cc59648c62a8, type: 3}
+  - {fileID: 197594206431264787, guid: 75e1e4f4946d88e4dbbe87a16ab70c61, type: 3}
+  - {fileID: 197594206431264787, guid: 0ed006c5136518e42b852fe431003dc8, type: 3}
+  - {fileID: 197594206431264787, guid: 00923fff9c1174544b4e5044f1f3811b, type: 3}
+  - {fileID: 197594206431264787, guid: fed1302fa0daf7e45a82bc0c899975e6, type: 3}
+  - {fileID: 197594206431264787, guid: 0140dbec7a6b933408b55e4b2869e2a5, type: 3}
+  debuffPrefabs:
+  - {fileID: 6466921007060668999, guid: 223ee67e94f11b149be5da08774161ca, type: 3}
+  - {fileID: 3503704754548151637, guid: dbcdae375074caf48b997f349ac779e4, type: 3}
+  fieldSpawnConfig:
+    areaMin: {x: -5, y: 4, z: 100}
+    areaMax: {x: 6, y: 6, z: 130}
+    obstacleLayer:
+      serializedVersion: 2
+      m_Bits: 33024
+    maxSpawnAttempts: 10
+    minDistanceBetweenPortals: 45
+  playerShootRate: 0.15
+  enemyMoveSpeed: 45
+  enemyMoveSpeedChaos: 4
+  enemyShootInterval: 1.5
+  enemyShootRange: 100
+  enemyChaosRadius: 3
+  enemyBulletSpeed: 40
+  enemyBulletLifetime: 6
+  moveSpeedScout: 55
+  moveSpeedKamikadze: 75
+  explosionRangeKamikadze: 2
+  explosionForceKamikadze: 25
+  damageAmountKamikadze: 1

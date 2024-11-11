@@ -1,0 +1,19 @@
+{
+  "warnings": [
+    {
+      "textKey": "warning_1",
+      "localizedText": "База в опасности! Жми на гашетку боец!",
+      "audioPath": "Sounds/Warnings/warning_1_ru"
+    },
+    {
+      "textKey": "warning_2",
+      "localizedText": "Ветер ласкает твою лысину, солнце слепит глаза, а у нас тут уже куча инопланетян из-за тебя! ",
+      "audioPath": "Sounds/Warnings/warning_2_ru"
+    },
+    {
+      "textKey": "warning_3",
+      "localizedText": "Ахх…а когда-то это была ветка благородного ховер-поезда…его блестящие бока и мощный мотор до сих пор вызывают во мне ностальгию... ",
+      "audioPath": "Sounds/Warnings/warning_3_ru"
+    }
+  ]
+}

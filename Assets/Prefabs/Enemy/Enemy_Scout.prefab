@@ -1,0 +1,1479 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &40071117404785851
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5970192881373300009}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:handR2_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5970192881373300009
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 40071117404785851}
+  serializedVersion: 2
+  m_LocalRotation: {x: 1.908709e-36, y: -1.3010426e-18, z: 1.4670611e-18, w: 1}
+  m_LocalPosition: {x: -0.2531747, y: -3.5527136e-17, z: 2.2204459e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7030993524094198093}
+  m_Father: {fileID: 6174773355881183616}
+  m_LocalEulerAnglesHint: {x: 26.711344, y: -1.5630869, z: -35.02009}
+--- !u!1 &910712097606198523
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6443109352389195583}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:tentacleA3_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6443109352389195583
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 910712097606198523}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00123809, y: 0.06438595, z: -0.0008181718, w: 0.997924}
+  m_LocalPosition: {x: -0.23113668, y: 2.842171e-16, z: -1.4210854e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6743349836328790576}
+  m_Father: {fileID: 8439253687853702104}
+  m_LocalEulerAnglesHint: {x: -21.818342, y: 7.669953, z: 28.361238}
+--- !u!1 &1755578614077006865
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7294550054252959772}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:hip_M
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7294550054252959772
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1755578614077006865}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.8021571, y: 0.046887774, z: 0.34650692, w: -0.48402318}
+  m_LocalPosition: {x: -0.42974937, y: 6.750156e-16, z: -3.740044e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1753167219845199458}
+  - {fileID: 6174773355881183616}
+  - {fileID: 6645337621696723812}
+  - {fileID: 1604952318575748928}
+  - {fileID: 5306468872555283800}
+  - {fileID: 5043454776345653338}
+  m_Father: {fileID: 1853759165727680930}
+  m_LocalEulerAnglesHint: {x: -54.000214, y: 119.70977, z: -153.72362}
+--- !u!1 &1995526772787703346
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1108742987579592624}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:tentacleB5_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1108742987579592624
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1995526772787703346}
+  serializedVersion: 2
+  m_LocalRotation: {x: 2.0077328e-20, y: -1.332803e-19, z: 1.0408341e-16, w: 1}
+  m_LocalPosition: {x: -0.25643122, y: -7.81597e-16, z: -4.6185276e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4937240026915617656}
+  m_LocalEulerAnglesHint: {x: 0.81216186, y: 0.6246755, z: 34.277596}
+--- !u!1 &2299703663450144223
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6375560086533323339}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:tentacleA5_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6375560086533323339
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2299703663450144223}
+  serializedVersion: 2
+  m_LocalRotation: {x: 1.1190143e-16, y: 2.3508473e-19, z: 1.110223e-16, w: 1}
+  m_LocalPosition: {x: -0.21846773, y: -1.4210854e-16, z: -1.4210854e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6743349836328790576}
+  m_LocalEulerAnglesHint: {x: 3.4905221, y: -33.512115, z: 11.497254}
+--- !u!1 &2528411398945167312
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7254840369483942959}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:tentacleC3_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7254840369483942959
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2528411398945167312}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0010539289, y: -0.0074241213, z: -0.036535617, w: 0.99930423}
+  m_LocalPosition: {x: -0.23246148, y: 0, z: -1.1546319e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4885444878591445529}
+  m_Father: {fileID: 7863057506574848090}
+  m_LocalEulerAnglesHint: {x: -4.942654, y: -3.073845, z: -18.17381}
+--- !u!1 &2636443764808296621
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7713360538530891229}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:tentacleD3_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7713360538530891229
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2636443764808296621}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0029371928, y: -0.027897611, z: 0.039359443, w: 0.9988313}
+  m_LocalPosition: {x: -0.19754507, y: -1.7763567e-16, z: -3.5527136e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8361271556123922399}
+  m_Father: {fileID: 6413315903058166031}
+  m_LocalEulerAnglesHint: {x: -0.24004138, y: -4.0041733, z: 5.356948}
+--- !u!1 &2733171329874983432
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8537231587917678739}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:handL5_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8537231587917678739
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2733171329874983432}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0035183076, y: 0.0026103565, z: 0.015562171, w: 0.99986935}
+  m_LocalPosition: {x: -0.21556091, y: -3.1974422e-16, z: 3.8302694e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8586225983475052076}
+  m_Father: {fileID: 7348783007435363333}
+  m_LocalEulerAnglesHint: {x: 0.39846376, y: 0.3053686, z: -42.44352}
+--- !u!1 &2911436599281651810
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7348783007435363333}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:handL4_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7348783007435363333
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2911436599281651810}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000797566, y: -0.00060657895, z: -0.0036875538, w: 0.9999927}
+  m_LocalPosition: {x: -0.21242411, y: -1.7763567e-16, z: 1.2573275e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8537231587917678739}
+  m_Father: {fileID: 3193873046765945644}
+  m_LocalEulerAnglesHint: {x: -0.09164895, y: -0.069171384, z: -40.059883}
+--- !u!1 &3196179939401050741
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7863057506574848090}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:tentacleC2_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7863057506574848090
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3196179939401050741}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.002950721, y: -0.04140764, z: 0.10612731, w: 0.9934856}
+  m_LocalPosition: {x: -0.20403525, y: 4.2632563e-16, z: -2.0428103e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7254840369483942959}
+  m_Father: {fileID: 5306468872555283800}
+  m_LocalEulerAnglesHint: {x: -3.0686617, y: -5.571945, z: 11.070543}
+--- !u!1 &3314763006021843580
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1510510228991568890}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:handR6_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1510510228991568890
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3314763006021843580}
+  serializedVersion: 2
+  m_LocalRotation: {x: -3.469447e-18, y: -2.6020852e-18, z: 1.22514845e-17, w: 1}
+  m_LocalPosition: {x: -0.19894902, y: -4.6185276e-16, z: -1.5099033e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6591645618371618666}
+  m_Father: {fileID: 823024111331290340}
+  m_LocalEulerAnglesHint: {x: 3.7589307, y: 18.834232, z: -21.677807}
+--- !u!1 &3491597906424077344
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8439253687853702104}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:tentacleA2_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8439253687853702104
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3491597906424077344}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.007963693, y: -0.100336835, z: -0.058821447, w: 0.99318135}
+  m_LocalPosition: {x: -0.16234885, y: 7.105427e-17, z: -7.105427e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6443109352389195583}
+  m_Father: {fileID: 6645337621696723812}
+  m_LocalEulerAnglesHint: {x: -22.166464, y: -1.3032457, z: -4.4038577}
+--- !u!1 &3557756820071293865
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4937240026915617656}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:tentacleB4_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4937240026915617656
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3557756820071293865}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0007529927, y: -0.007443889, z: 0.022182107, w: 0.999726}
+  m_LocalPosition: {x: -0.26770994, y: 2.842171e-16, z: 5.3290704e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1108742987579592624}
+  m_Father: {fileID: 6295572387760218309}
+  m_LocalEulerAnglesHint: {x: -1.0838687, y: -8.925536, z: -17.21264}
+--- !u!1 &3561531260664570661
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6743349836328790576}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:tentacleA4_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6743349836328790576
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3561531260664570661}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.004539736, y: -0.047348067, z: 0.077016085, w: 0.9958946}
+  m_LocalPosition: {x: -0.17937653, y: -2.842171e-16, z: 2.1316282e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6375560086533323339}
+  m_Father: {fileID: 6443109352389195583}
+  m_LocalEulerAnglesHint: {x: -2.744049, y: -24.080353, z: 28.705761}
+--- !u!1 &3703337347542125479
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5043454776345653338}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:tentacleD1_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5043454776345653338
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3703337347542125479}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.57729965, y: -0.14518088, z: 0.3300307, w: 0.73261684}
+  m_LocalPosition: {x: -0.46253932, y: -0.037264816, z: -0.19664542}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6413315903058166031}
+  m_Father: {fileID: 7294550054252959772}
+  m_LocalEulerAnglesHint: {x: -49.219288, y: -63.275574, z: 78.685196}
+--- !u!1 &4287822314890836825
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3357374047572621793}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:handL8_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3357374047572621793
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4287822314890836825}
+  serializedVersion: 2
+  m_LocalRotation: {x: 4.8572257e-17, y: -5.2041704e-17, z: 1.1058862e-16, w: 1}
+  m_LocalPosition: {x: -0.17693175, y: -2.1316282e-16, z: 1.0658141e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3048639432982055170}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4335706876068251734
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1753167219845199458}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:handL1_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1753167219845199458
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4335706876068251734}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.7546547, y: 0.58300877, z: -0.0065967473, w: -0.30092114}
+  m_LocalPosition: {x: -0.12878516, y: -0.4109796, z: -0.16355488}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7073966713175455102}
+  m_Father: {fileID: 7294550054252959772}
+  m_LocalEulerAnglesHint: {x: -26.518787, y: -156.21759, z: 79.75148}
+--- !u!1 &4345337125737001393
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7030993524094198093}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:handR3_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7030993524094198093
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4345337125737001393}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 8.74138e-19, w: 1}
+  m_LocalPosition: {x: -0.20258301, y: 0, z: 8.437695e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 159020518153966547}
+  m_Father: {fileID: 5970192881373300009}
+  m_LocalEulerAnglesHint: {x: 0.60499716, y: 2.9311478, z: -26.9432}
+--- !u!1 &4427521584351494287
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8912804193303751279}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:tentacleD5_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8912804193303751279
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4427521584351494287}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000116287296, y: 0.00000004111379, z: 1.5480055e-16, w: 1}
+  m_LocalPosition: {x: -0.19717285, y: 1.4210854e-16, z: 1.4210854e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8361271556123922399}
+  m_LocalEulerAnglesHint: {x: -0.06653828, y: 0.51513284, z: -0.09141094}
+--- !u!1 &4828278290507290009
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3048639432982055170}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:handL7_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3048639432982055170
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4828278290507290009}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.08132443, y: -0.05695377, z: 0.046564724, w: 0.993969}
+  m_LocalPosition: {x: -0.20646538, y: 1.7053025e-15, z: 3.8857805e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3357374047572621793}
+  m_Father: {fileID: 8586225983475052076}
+  m_LocalEulerAnglesHint: {x: -8.995901, y: -7.024778, z: 62.27999}
+--- !u!1 &4829924586755955509
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4885444878591445529}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:tentacleC4_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4885444878591445529
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4829924586755955509}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0009116084, y: 0.007849774, z: 0.011147232, w: 0.99990666}
+  m_LocalPosition: {x: -0.251938, y: -2.842171e-16, z: -1.8651746e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 698336782688817079}
+  m_Father: {fileID: 7254840369483942959}
+  m_LocalEulerAnglesHint: {x: -5.984683, y: -12.817312, z: -20.174686}
+--- !u!1 &4902544809132826386
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6413315903058166031}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:tentacleD2_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6413315903058166031
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4902544809132826386}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0005880453, y: 0.0048881522, z: -0.054190766, w: 0.99851847}
+  m_LocalPosition: {x: -0.25910506, y: 2.1316282e-16, z: -1.0658141e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7713360538530891229}
+  m_Father: {fileID: 5043454776345653338}
+  m_LocalEulerAnglesHint: {x: 0.025964174, y: -0.08003622, z: -5.711548}
+--- !u!1 &5024605808784889218
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3193873046765945644}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:handL3_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3193873046765945644
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5024605808784889218}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0017997, y: -0.0013359436, z: -0.007952153, w: 0.9999659}
+  m_LocalPosition: {x: -0.21183938, y: 1.065814e-15, z: -3.5624281e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7348783007435363333}
+  m_Father: {fileID: 7073966713175455102}
+  m_LocalEulerAnglesHint: {x: -0.20744118, y: -0.15144381, z: -45.558304}
+--- !u!1 &5030476574153954388
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3456642601753027331}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:handR8_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3456642601753027331
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5030476574153954388}
+  serializedVersion: 2
+  m_LocalRotation: {x: -2.7755576e-17, y: 7.944461e-33, z: -2.8622937e-16, w: 1}
+  m_LocalPosition: {x: -0.17486009, y: 1.7763567e-16, z: -4.440892e-18}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6591645618371618666}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5414106538945636984
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6174773355881183616}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:handR1_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6174773355881183616
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5414106538945636984}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.06985418, y: 0.02198667, z: 0.15757315, w: 0.9847882}
+  m_LocalPosition: {x: -0.46243998, y: -2.4868996e-16, z: -2.1427304e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5970192881373300009}
+  m_Father: {fileID: 7294550054252959772}
+  m_LocalEulerAnglesHint: {x: -35.7433, y: -37.938446, z: -2.5203447}
+--- !u!1 &5888746251039636533
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6518983025845352374}
+  - component: {fileID: 8740555730030308072}
+  - component: {fileID: 7234409098416365488}
+  - component: {fileID: 5262534108922288537}
+  - component: {fileID: 2187231583771495533}
+  - component: {fileID: 8323605210319507822}
+  m_Layer: 8
+  m_Name: Enemy_Scout
+  m_TagString: Enemy
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6518983025845352374
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5888746251039636533}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.029580116, y: 24.614925, z: 1.5963995}
+  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_ConstrainProportionsScale: 1
+  m_Children:
+  - {fileID: 4686698406502429232}
+  - {fileID: 1853759165727680930}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &8740555730030308072
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5888746251039636533}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: e32225541c4d77a4ab5630bd21fff3ae, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &7234409098416365488
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5888746251039636533}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a62ef529bee756f4eb936fd195295a53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _hp: 1
+  bloodEffectPrefab: {fileID: 2946136747604355019, guid: 050e1ad58607d8c45ae8dcf5dbff5fca, type: 3}
+  explosionClip: {fileID: 8300000, guid: b8b911fcab755c34889a2756d476e6a2, type: 3}
+--- !u!114 &5262534108922288537
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5888746251039636533}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e25698d26d4c05f4ebac12b299c65ff9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scoreValue: 50
+  obstacleLayerMask:
+    serializedVersion: 2
+    m_Bits: 311296
+  detectionRadius: 3
+--- !u!135 &2187231583771495533
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5888746251039636533}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.6
+  m_Center: {x: 0, y: 0.46, z: 0}
+--- !u!54 &8323605210319507822
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5888746251039636533}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 112
+  m_CollisionDetection: 0
+--- !u!1 &6330954314993089673
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1604952318575748928}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:tentacleB1_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1604952318575748928
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6330954314993089673}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.56707007, y: -0.18122102, z: 0.2675015, w: 0.75764996}
+  m_LocalPosition: {x: -0.3235125, y: -0.23534124, z: -0.3201683}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6324186881225962601}
+  m_Father: {fileID: 7294550054252959772}
+  m_LocalEulerAnglesHint: {x: -52.198826, y: -61.101826, z: 60.937492}
+--- !u!1 &6504217853821024843
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7073966713175455102}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:handL2_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7073966713175455102
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6504217853821024843}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000410577, y: 0.00030137913, z: 0.002626586, w: 0.9999964}
+  m_LocalPosition: {x: -0.2514191, y: 3.907985e-16, z: -5.3845815e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3193873046765945644}
+  m_Father: {fileID: 1753167219845199458}
+  m_LocalEulerAnglesHint: {x: 0.046957783, y: 0.034658965, z: -27.885643}
+--- !u!1 &6988709224836372576
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6295572387760218309}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:tentacleB3_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6295572387760218309
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6988709224836372576}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0017075577, y: 0.052212417, z: 0.045853026, w: 0.9975813}
+  m_LocalPosition: {x: -0.22338049, y: 0, z: 8.881784e-18}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4937240026915617656}
+  m_Father: {fileID: 6324186881225962601}
+  m_LocalEulerAnglesHint: {x: -8.525965, y: -5.733562, z: -30.235369}
+--- !u!1 &7183890468363426311
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6645337621696723812}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:tentacleA1_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6645337621696723812
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7183890468363426311}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.58547866, y: -0.11231091, z: 0.28615406, w: 0.7501446}
+  m_LocalPosition: {x: -0.2262417, y: -0.33208436, z: -0.34324256}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8439253687853702104}
+  m_Father: {fileID: 7294550054252959772}
+  m_LocalEulerAnglesHint: {x: -17.30993, y: -67.78237, z: 62.150578}
+--- !u!1 &7389634252470393006
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5306468872555283800}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:tentacleC1_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5306468872555283800
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7389634252470393006}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.56771076, y: -0.18014811, z: 0.23326214, w: 0.7686612}
+  m_LocalPosition: {x: -0.39296362, y: -0.15042427, z: -0.27926272}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7863057506574848090}
+  m_Father: {fileID: 7294550054252959772}
+  m_LocalEulerAnglesHint: {x: -54.834156, y: -60.296875, z: 68.761955}
+--- !u!1 &7492211644943751986
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 698336782688817079}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:tentacleC5_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &698336782688817079
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7492211644943751986}
+  serializedVersion: 2
+  m_LocalRotation: {x: 1.1090708e-16, y: -6.588113e-19, z: 1.8041124e-16, w: 1}
+  m_LocalPosition: {x: -0.25451687, y: -1.3500312e-15, z: 1.7763568e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4885444878591445529}
+  m_LocalEulerAnglesHint: {x: 1.2991226, y: -2.5077105, z: 16.603592}
+--- !u!1 &7585656877959468264
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6324186881225962601}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:tentacleB2_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6324186881225962601
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7585656877959468264}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00022058692, y: -0.056356307, z: -0.017124524, w: 0.99826384}
+  m_LocalPosition: {x: -0.16954616, y: -3.5527136e-17, z: -2.3092638e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6295572387760218309}
+  m_Father: {fileID: 1604952318575748928}
+  m_LocalEulerAnglesHint: {x: -5.0749755, y: -7.276244, z: -3.1006007}
+--- !u!1 &7629960067897830772
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4686698406502429232}
+  - component: {fileID: 7631094997175735474}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:Enemy_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4686698406502429232
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629960067897830772}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6518983025845352374}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &7631094997175735474
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629960067897830772}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: e5693608361252241ac68b53b4c760c1, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 8566020346597413271, guid: 4e8a3559913afd246a8de1576542e1e3, type: 3}
+  m_Bones:
+  - {fileID: 1853759165727680930}
+  - {fileID: 7294550054252959772}
+  - {fileID: 6174773355881183616}
+  - {fileID: 5970192881373300009}
+  - {fileID: 7030993524094198093}
+  - {fileID: 159020518153966547}
+  - {fileID: 823024111331290340}
+  - {fileID: 1510510228991568890}
+  - {fileID: 6591645618371618666}
+  - {fileID: 3456642601753027331}
+  - {fileID: 1753167219845199458}
+  - {fileID: 7073966713175455102}
+  - {fileID: 3193873046765945644}
+  - {fileID: 7348783007435363333}
+  - {fileID: 8537231587917678739}
+  - {fileID: 8586225983475052076}
+  - {fileID: 3048639432982055170}
+  - {fileID: 3357374047572621793}
+  - {fileID: 6645337621696723812}
+  - {fileID: 8439253687853702104}
+  - {fileID: 6443109352389195583}
+  - {fileID: 6743349836328790576}
+  - {fileID: 6375560086533323339}
+  - {fileID: 1604952318575748928}
+  - {fileID: 6324186881225962601}
+  - {fileID: 6295572387760218309}
+  - {fileID: 4937240026915617656}
+  - {fileID: 1108742987579592624}
+  - {fileID: 5306468872555283800}
+  - {fileID: 7863057506574848090}
+  - {fileID: 7254840369483942959}
+  - {fileID: 4885444878591445529}
+  - {fileID: 698336782688817079}
+  - {fileID: 5043454776345653338}
+  - {fileID: 6413315903058166031}
+  - {fileID: 7713360538530891229}
+  - {fileID: 8361271556123922399}
+  - {fileID: 8912804193303751279}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 1853759165727680930}
+  m_AABB:
+    m_Center: {x: -0.54210967, y: -0.2029478, z: -0.14231741}
+    m_Extent: {x: 1.492589, y: 1.0868669, z: 1.3248631}
+  m_DirtyAABB: 0
+--- !u!1 &7712964524773244413
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1853759165727680930}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:Root_M
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1853759165727680930
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7712964524773244413}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.61920553, y: -0.34144476, z: 0.61920553, w: 0.34144473}
+  m_LocalPosition: {x: 0.00000016885413, y: 0.8137702, z: -0.22670987}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7294550054252959772}
+  m_Father: {fileID: 6518983025845352374}
+  m_LocalEulerAnglesHint: {x: 0.31197068, y: -82.977135, z: 116.606285}
+--- !u!1 &7836358912424309177
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 159020518153966547}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:handR4_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &159020518153966547
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7836358912424309177}
+  serializedVersion: 2
+  m_LocalRotation: {x: 3.081081e-38, y: 1.0842022e-19, z: -2.8417955e-19, w: 1}
+  m_LocalPosition: {x: -0.21771555, y: -1.4210854e-16, z: -7.105427e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 823024111331290340}
+  m_Father: {fileID: 7030993524094198093}
+  m_LocalEulerAnglesHint: {x: 4.312492, y: 4.6816654, z: -24.33622}
+--- !u!1 &8193327888676917853
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6591645618371618666}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:handR7_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6591645618371618666
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8193327888676917853}
+  serializedVersion: 2
+  m_LocalRotation: {x: -3.469447e-18, y: 3.469447e-18, z: -1.0625181e-17, w: 1}
+  m_LocalPosition: {x: -0.22068779, y: 4.973799e-16, z: 5.7731595e-17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3456642601753027331}
+  m_Father: {fileID: 1510510228991568890}
+  m_LocalEulerAnglesHint: {x: -3.5717661, y: -3.3590713, z: -7.3061085}
+--- !u!1 &8541544220611577831
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 823024111331290340}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:handR5_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &823024111331290340
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8541544220611577831}
+  serializedVersion: 2
+  m_LocalRotation: {x: 1.7347235e-18, y: 4.3368087e-19, z: -1.4772255e-18, w: 1}
+  m_LocalPosition: {x: -0.21251303, y: -2.4868996e-16, z: 1.6431301e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1510510228991568890}
+  m_Father: {fileID: 159020518153966547}
+  m_LocalEulerAnglesHint: {x: 1.2029417, y: 5.9584394, z: -28.76807}
+--- !u!1 &8597302085815492329
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8586225983475052076}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:handL6_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8586225983475052076
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8597302085815492329}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.003934598, y: -0.0029310833, z: -0.0174986, w: 0.9998349}
+  m_LocalPosition: {x: -0.20874162, y: -6.0396133e-16, z: 2.1038726e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3048639432982055170}
+  m_Father: {fileID: 8537231587917678739}
+  m_LocalEulerAnglesHint: {x: -0.45667842, y: -0.32794434, z: 69.20649}
+--- !u!1 &8871357465486675730
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8361271556123922399}
+  m_Layer: 8
+  m_Name: flying_enemy_Rig:tentacleD4_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8361271556123922399
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8871357465486675730}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0015943048, y: 0.018245831, z: -0.057082605, w: 0.9982015}
+  m_LocalPosition: {x: -0.24716759, y: -1.7763567e-16, z: 4.973799e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8912804193303751279}
+  m_Father: {fileID: 7713360538530891229}
+  m_LocalEulerAnglesHint: {x: 0.2448473, y: 2.0431023, z: -6.981213}

@@ -1,0 +1,9 @@
+{
+  "bossEvents": [
+    {
+      "textKey": "boss_1",
+      "localizedText": "Ох и пасть у этой твари, накорми же ее с бластера как следует!",
+      "audioPath": "Sounds/Bosses/boss_1_ru"
+    }
+  ]
+}

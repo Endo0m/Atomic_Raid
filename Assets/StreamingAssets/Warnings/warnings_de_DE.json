@@ -1,0 +1,19 @@
+{
+  "warnings": [
+    {
+      "textKey": "warning_1",
+      "localizedText": "Die Basis ist in Gefahr! Drücken Sie den Abzug schneller, Soldat!",
+      "audioPath": "Sounds/Warnings/warning_1_de"
+    },
+    {
+      "textKey": "warning_2",
+      "localizedText": "Der Wind streichelt Ihren kahlen Kopf, die Sonne blendet Ihre Augen, und wir haben schon einen Haufen Aliens hier wegen Ihnen!",
+      "audioPath": "Sounds/Warnings/warning_2_de"
+    },
+    {
+      "textKey": "warning_3",
+      "localizedText": "Ach... es war einmal der Weg des edlen Schwebezuges... seine glänzenden Seiten und der kraftvolle Motor machen mich immer noch nostalgisch...",
+      "audioPath": "Sounds/Warnings/warning_3_de"
+    }
+  ]
+}

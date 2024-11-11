@@ -1,0 +1,184 @@
+{
+  "items": [
+    {
+      "key": "NewGame",
+      "value": "Neues Spiel"
+    },
+    {
+      "key": "Settings",
+      "value": "Einstellungen"
+    },
+    {
+      "key": "Leaders",
+      "value": "Bestenliste"
+    },
+    {
+      "key": "Authors",
+      "value": "Autoren"
+    },
+    {
+      "key": "Exit",
+      "value": "Beenden"
+    },
+    {
+      "key": "Back",
+      "value": "Zurück"
+    },
+    {
+      "key": "Music",
+      "value": "Musik"
+    },
+    {
+      "key": "Sound",
+      "value": "Ton"
+    },
+    {
+      "key": "Menu",
+      "value": "Menü"
+    },
+    {
+      "key": "Restart",
+      "value": "Neustart"
+    },
+    {
+      "key": "GameOver",
+      "value": "Spiel vorbei"
+    },
+    {
+      "key": "Placeholder",
+      "value": "Name eingeben"
+    },
+    {
+      "key": "SaveScore",
+      "value": "Punktzahl speichern"
+    },
+    {
+      "key": "Continue",
+      "value": "Fortsetzen"
+    },
+    {
+      "key": "HelpPanelText",
+      "value": "Drücke Leertaste und los geht's!"
+    },
+    {
+      "key": "Help_HealthText",
+      "value": "Rüstungshaltbarkeit"
+    },
+    {
+      "key": "Help_ScoreText",
+      "value": "Punkte für besiegte Feinde"
+    },
+    {
+      "key": "Help_TimerText",
+      "value": "Dauer des Feldeffekts"
+    },
+    {
+      "key": "Help_ActiveText",
+      "value": "Aktives Feld"
+    },
+    {
+      "key": "Help_MovementText",
+      "value": "Steuerung:"
+    },
+    {
+      "key": "Help_UpText",
+      "value": "Hoch"
+    },
+    {
+      "key": "Help_DownText",
+      "value": "Runter"
+    },
+    {
+      "key": "Help_LeftText",
+      "value": "Links"
+    },
+    {
+      "key": "Help_RightText",
+      "value": "Rechts"
+    },
+    {
+      "key": "Help_MouseText",
+      "value": "Zielen:"
+    },
+    {
+      "key": "Help_LeftButtonMouseText",
+      "value": "Angriff"
+    },
+    {
+      "key": "Help_MoveMouseText",
+      "value": "Fadenkreuz bewegen"
+    },
+    {
+      "key": "Score_Text",
+      "value": "PUNKTZAHL:"
+    },
+    {
+      "key": "Cutscene_Text",
+      "value": "Drücke Leertaste zum Überspringen..."
+    },
+    {
+      "key": "Language",
+      "value": "Sprache"
+    },
+    {
+      "key": "AutorsText",
+      "value": "Spieldesigner:\nOleg Grigoriev\n\n3D-Künstler:\nDaniil Nurmukhametov\nAnastasia Tomashevskaya\n\n2D-Künstler:\nArtemiy Ekimov\n\nNarrative Designer:\nYaroslav Dunaevsky\n\nUnity-Entwickler:\nArtur Sadreev\n\nSounddesigner:\nEvgeny Ibragimov"
+    },
+    {
+      "key": "LeaderboardRank",
+      "value": "Rang"
+    },
+    {
+      "key": "LeaderboardName",
+      "value": "Name"
+    },
+    {
+      "key": "LeaderboardScore",
+      "value": "Punktzahl"
+    },
+    {
+      "key": "Game",
+      "value": "Spiel"
+    },
+    {
+      "key": "Video",
+      "value": "Video"
+    },
+    {
+      "key": "Controls",
+      "value": "Steuerung"
+    },
+    {
+      "key": "ScreenResolution",
+      "value": "Bildschirmauflösung"
+    },
+    {
+      "key": "Up",
+      "value": "Verschiebung nach oben"
+    },
+    {
+      "key": "Down",
+      "value": "Verschiebung nach unten"
+    },
+    {
+      "key": "Left",
+      "value": "Verschiebung nach links"
+    },
+    {
+      "key": "Right",
+      "value": "Verschiebung nach rechts"
+    },
+    {
+      "key": "Shoot",
+      "value": "Schießen"
+    },
+    {
+      "key": "ResetSettings",
+      "value": "Einstellungen zurücksetzen"
+    },
+    {
+      "key": "Kate",
+      "value": "Kate"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+Copyright 2019 The Manrope Project Authors (https://github.com/sharanda/manrope)
+Copyright 2021 Dead Lettering (Michael Voronin, http://aencaster.tk)

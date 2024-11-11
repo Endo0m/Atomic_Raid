@@ -1,0 +1,184 @@
+{
+  "items": [
+    {
+      "key": "NewGame",
+      "value": "New Game"
+    },
+    {
+      "key": "Settings",
+      "value": "Settings"
+    },
+    {
+      "key": "Leaders",
+      "value": "Leaders"
+    },
+    {
+      "key": "Authors",
+      "value": "Authors"
+    },
+    {
+      "key": "Exit",
+      "value": "Exit"
+    },
+    {
+      "key": "Back",
+      "value": "Back"
+    },
+    {
+      "key": "Music",
+      "value": "Music"
+    },
+    {
+      "key": "Sound",
+      "value": "Sound"
+    },
+    {
+      "key": "Menu",
+      "value": "Menu"
+    },
+    {
+      "key": "Restart",
+      "value": "Restart"
+    },
+    {
+      "key": "GameOver",
+      "value": "Game Over"
+    },
+    {
+      "key": "Placeholder",
+      "value": "Enter name"
+    },
+    {
+      "key": "SaveScore",
+      "value": "Save score"
+    },
+    {
+      "key": "Continue",
+      "value": "Continue"
+    },
+    {
+      "key": "HelpPanelText",
+      "value": "Press Space and let's go!"
+    },
+    {
+      "key": "Help_HealthText",
+      "value": "Armor durability"
+    },
+    {
+      "key": "Help_ScoreText",
+      "value": "Points for defeated enemies"
+    },
+    {
+      "key": "Help_TimerText",
+      "value": "Field effect duration"
+    },
+    {
+      "key": "Help_ActiveText",
+      "value": "Active field"
+    },
+    {
+      "key": "Help_MovementText",
+      "value": "Controls:"
+    },
+    {
+      "key": "Help_UpText",
+      "value": "Up"
+    },
+    {
+      "key": "Help_DownText",
+      "value": "Down"
+    },
+    {
+      "key": "Help_LeftText",
+      "value": "Left"
+    },
+    {
+      "key": "Help_RightText",
+      "value": "Right"
+    },
+    {
+      "key": "Help_MouseText",
+      "value": "Aiming:"
+    },
+    {
+      "key": "Help_LeftButtonMouseText",
+      "value": "Attack"
+    },
+    {
+      "key": "Help_MoveMouseText",
+      "value": "Move crosshair"
+    },
+    {
+      "key": "Score_Text",
+      "value": "SCORE:"
+    },
+    {
+      "key": "Cutscene_Text",
+      "value": "Press Space to skip..."
+    },
+    {
+      "key": "Language",
+      "value": "Language"
+    },
+    {
+      "key": "AutorsText",
+      "value": "Game Designers:\nOleg Grigoriev\n\n3D Artists:\nDaniil Nurmukhametov\nAnastasia Tomashevskaya\n\n2D Artists:\nArtemiy Ekimov\n\nNarrative Designers:\nYaroslav Dunaevsky\n\nUnity Developers:\nArtur Sadreev\n\nSound Designers:\nEvgeny Ibragimov"
+    },
+    {
+      "key": "LeaderboardRank",
+      "value": "Rank"
+    },
+    {
+      "key": "LeaderboardName",
+      "value": "Name"
+    },
+    {
+      "key": "LeaderboardScore",
+      "value": "Score"
+    },
+    {
+      "key": "Game",
+      "value": "Game"
+    },
+    {
+      "key": "Video",
+      "value": "Video"
+    },
+    {
+      "key": "Controls",
+      "value": "Controls"
+    },
+    {
+      "key": "ScreenResolution",
+      "value": "Screen Resolution"
+    },
+    {
+      "key": "Up",
+      "value": "Offset Up"
+    },
+    {
+      "key": "Down",
+      "value": "Offset Down"
+    },
+    {
+      "key": "Left",
+      "value": "Offset Left"
+    },
+    {
+      "key": "Right",
+      "value": "Offset Right"
+    },
+    {
+      "key": "Shoot",
+      "value": "Shoot"
+    },
+    {
+      "key": "ResetSettings",
+      "value": "Reset Settings"
+    },
+    {
+      "key": "Kate",
+      "value": "Kate"
+    }
+  ]
+}

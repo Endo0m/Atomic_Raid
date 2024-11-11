@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Restrictive walls
+  - DamageDealer
+  - FirstSegment
+  - Enemy
+  - CameraWall
+  - Environment
+  - PlayerBullet
+  - EnemyBullet
+  - Boss
+  - FxTemporaire
+  - FX
+  - Trigger
+  - VFX
+  - Storm
+  - BossBullet
+  - Field
+  - Bullet
+  - Shield
+  - AttachmentPoint
+  - Objects
+  - Camera
+  - PlayerFlashlight
+  - Trash
+  - DontShadow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Restrictive walls
+  - DamageDealer
+  - Enemy
+  - FirstSegment
+  - CameraWall
+  - EnemyBullet
+  - PlayerBullet
+  - Boss
+  - Env
+  - Objects
+  - Camera
+  - Trigger
+  - Field
+  - Storm
+  - BossBullet
+  - Shield
+  - PlayerFlashlight
+  - Trash
+  - DontShadow
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

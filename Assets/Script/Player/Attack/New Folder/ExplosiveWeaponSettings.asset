@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c0d291514c1cec41853c62a5746262f, type: 3}
+  m_Name: ExplosiveWeaponSettings
+  m_EditorClassIdentifier: 
+  fireRate: 0.85
+  magazineSize: 10
+  reloadTime: 50
+  mainBulletLifetime: 3
+  mainBulletDamage: 3
+  explosionRadius: 5
+  bulletSpeed: 25
+  explosionLayers:
+    serializedVersion: 2
+    m_Bits: 49408
+  fragmentCount: 20
+  fragmentSpeed: 10
+  fragmentLifetime: 5

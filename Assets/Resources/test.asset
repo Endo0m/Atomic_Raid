@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a17b2a797ca1f6479488a79a6e877c7, type: 3}
+  m_Name: test
+  m_EditorClassIdentifier: 
+  enemyTypes:
+  - prefab: {fileID: 8376411059195974454, guid: 32b61a1b789dcdf4da3eaa99b7eb3a73, type: 3}
+    maxEnemies: 20
+    isFlying: 0
+    spawnStartTime: 2
+    waveConfigs:
+    - duration: 5
+      minEnemies: 1
+      maxEnemies: 1
+      minSpawnInterval: 2
+      maxSpawnInterval: 4
+    - duration: 0
+      minEnemies: 0
+      maxEnemies: 0
+      minSpawnInterval: 0
+      maxSpawnInterval: 0
+    level: 0
+  - prefab: {fileID: 68237437976125924, guid: 9e973794c1132b94d83eca658df10568, type: 3}
+    maxEnemies: 20
+    isFlying: 1
+    spawnStartTime: 2
+    waveConfigs:
+    - duration: 5
+      minEnemies: 1
+      maxEnemies: 1
+      minSpawnInterval: 2
+      maxSpawnInterval: 4
+    - duration: 0
+      minEnemies: 0
+      maxEnemies: 0
+      minSpawnInterval: 0
+      maxSpawnInterval: 0
+    level: 0
+  - prefab: {fileID: 7289793041286918437, guid: 8ab3a5abea6afa34f82d005624f67f04, type: 3}
+    maxEnemies: 20
+    isFlying: 0
+    spawnStartTime: 2
+    waveConfigs:
+    - duration: 5
+      minEnemies: 1
+      maxEnemies: 1
+      minSpawnInterval: 2
+      maxSpawnInterval: 4
+    - duration: 0
+      minEnemies: 0
+      maxEnemies: 0
+      minSpawnInterval: 0
+      maxSpawnInterval: 0
+    level: 2
+  - prefab: {fileID: 4455472441606487687, guid: bfcad791eef76be4bbe0b003b70b4251, type: 3}
+    maxEnemies: 20
+    isFlying: 0
+    spawnStartTime: 30
+    waveConfigs:
+    - duration: 5
+      minEnemies: 1
+      maxEnemies: 1
+      minSpawnInterval: 2
+      maxSpawnInterval: 4
+    - duration: 0
+      minEnemies: 0
+      maxEnemies: 0
+      minSpawnInterval: 0
+      maxSpawnInterval: 0
+    level: 4
+  flyingSpawnArea:
+    min: {x: -7, y: 4, z: 120}
+    max: {x: 9, y: 10, z: 200}
+  groundSpawnArea:
+    min: {x: -4, y: 0.1, z: 120}
+    max: {x: 6, y: 0.1, z: 200}
+  obstacleLayer:
+    serializedVersion: 2
+    m_Bits: 33024
